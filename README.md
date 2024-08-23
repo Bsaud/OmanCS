@@ -1,6 +1,4 @@
 # OMAN CyberSpace
-
-## introduction
 A Directory of all Oman CyberSpace Related entities and handful Resources.
 
 ## Topics
