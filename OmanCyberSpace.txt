@@ -1,0 +1,177 @@
+---
+title: Oman CyberSecurity
+markmap:
+  colorFreezeLevel: 5
+  maxWidth: 300
+---
+
+## Security Operations Center
+
+### tools
+
+#### Malware Analysis
+- [Virus Total](https://www.virustotal.com/gui/home/upload)
+- [Malware Bazzar](https://bazaar.abuse.ch/)
+
+#### Indicatiors of compromise
+- [AlienVault](https://otx.alienvault.com/)
+
+#### Monitoring
+
+- [ElasticSIEM](https://www.elastic.co/security/siem)
+- [Splunk](https://www.splunk.com/en_us/products/splunk-security-orchestration-and-automation.html)
+- [Corelight](https://corelight.com/)
+- [Wazah](https://wazuh.com/)
+- [OSINT Toolkit]()
+
+#### OSINT
+
+- [OSINT.sh](https://osint.sh/)
+- [DNSDumpster](https://dnsdumpster.com/)
+- [MXtoolbox](https://mxtoolbox.com/)
+
+### Resources
+
+#### Rulesets
+
+- [YARA Detection Rules](https://github.com/Yara-Rules/rules)
+- [ETPRO IPS Rules](https://www.proofpoint.com/us/resources/data-sheets/et-pro-ruleset)
+- [ElasticSIEM Rules](https://github.com/elastic/detection-rules)
+
+## GRC
+
+### Resources
+
+- [GDPR](https://gdpr-info.eu/)
+- [MTCIT Standards](https://www.mtcit.gov.om/ITAPortal/Our_Projects/Our_Projects_List.aspx?svc=657&NID=52&Odt=37)
+- [ISO Framework for CyberSecurity 27001](https://www.cssia.org/wp-content/uploads/2020/01/ISO_27001_Standard.pdf)
+- [ Standar Operating Procedures & Work Instructions](https://www.epa.gov/sites/default/files/2015-06/documents/g6-final.pdf)
+
+## Blue Team
+### Resources
+- [CIS](https://www.cisecurity.org/)
+- [NIST](https://www.nist.gov/)
+- [Mitre ATT&CK](https://attack.mitre.org)
+- [Microsoft](https://learn.microsoft.com/en-us/windows/security/operating-system-security/device-management/windows-security-configuration-framework/windows-security-baselines)
+
+### Tools
+#### Managment
+##### Endpoint Detection & Response
+- [Kaspersky Security Center](https://me-en.kaspersky.com/small-to-medium-business-security/security-center)
+- [Neculion Security](https://nucleon-security.com/)
+- [Sophos](https://www.sophos.com/en-us/products/endpoint-antivirus/edr)
+##### Device Monitoring
+- [Manage Engine OPManager](https://www.manageengine.com/network-monitoring/)
+#### Configration Assessment
+- [Nipper Studio](https://www.titania.com/products/nipper)
+
+## Penetration Testing
+### Resources 
+- [HackTricks](https://book.hacktricks.xyz)
+
+### Tools
+#### Vulnrability Assessment
+- [BurpSuite](https://portswigger.net/burp)
+- [Neassus](https://www.tenable.com/products/nessus)
+
+### Operating Systems
+- [BlackArch](https://blackarch.org)
+- [Kali Linux](https://www.kali.org)
+- [Parrot OS](https://parrotsec.org)
+
+## Research & Development
+### Resources
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [StackOverflow](https://stackoverflow.com/)
+- [StackExchange](https://stackexchange.com/)
+
+### Tools
+#### Automation
+- [Zapier](https://zapier.com/)
+- [N8N](https://n8n.io/)
+- [PowerAutomate](https://make.powerautomate.com/en-us/)
+#### Frameworks
+##### Web Application Development
+- [Django](https://www.djangoproject.com/)
+- [Flask](https://flask.palletsprojects.com)
+- [Rubey on Rails](https://rubyonrails.org)
+##### Mobile Application Development
+- [Flutter](https://flutter.dev/)
+
+#### UI/UX Design
+- [Figma](https://www.figma.com/)
+
+## Forensic
+### Tools
+#### Investigation
+- [BelkSoft X](https://belkasoft.com/x)
+- [CrimeWall](https://sociallinks.io/products/sl-crimewall)
+#### Operating Systems
+- [CSI Linux](https://csilinux.com/)
+### Resources
+- [CYBER FORENSICS coursebook  -Annamalai University](https://annamalaiuniversity.ac.in/studport/download/engg/it/resources/Cyber%20Forensics.pdf)
+
+## Infrastructure
+### Resources
+### Tools
+#### Hypervisors
+- [Xen](https://xenproject.org/)
+- [VMWare ESXI](https://www.vmware.com/products/cloud-infrastructure/esxi-and-esx)
+- [ProxMox](https://www.proxmox.com/en/)
+- [HyperV](ttps://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)
+- [Cockpit Project](https://cockpit-project.org)
+#### Opensource Firewalls
+- [PfSense](https://www.pfsense.org/)
+- [OpenSense](https://opnsense.org/)
+#### Opensource Network Access Control
+- [PacketFence](https://www.packetfence.org)
+
+## Service Providers in Oman
+### Computer Parts
+- [Gadgets.om](https://gadgetsoman.com)
+- [Idea.om](https://ideaoman.shop)
+- Rahat Computers
+### ISP
+- [Awaser](https://www.awasr.om)
+- [Omantel](https://www.omantel.om)
+- [Ooredoo](ttps://www.ooredoo.om/)
+- [Vodafone](https://www.vodafone.om)
+- [RedBull Mobile](https://www.redbullmobile.om)
+### Hosting & Cloud
+- [Oman DataPark](https://www.omandatapark.com)
+- [Data2Cloud](https://data2cloud.om)
+- [Digital Ocean](https://www.digitalocean.com)
+- [Omantel](https://www.omantel.om/business/small-medium-enterprise/ict/data-center-services/cloud-server)
+### Networking & Servers
+- [Fireware](http://www.fireware.com/home)
+- [OCS](https://www.ocsinfotech.com)
+- [Integrated Systems](http://www.integsystems.com)
+### Devices
+- [Danat Computers](https://danatcomputers.com)
+- Rahat Computers
+- [Gadgets.om](https://gadgetsoman.com)
+### CyberSecurity
+- [National Security Services Group](https://nssgo.com)
+- [DreamLab Technologies](https://www.s-ge.com/en/company/dreamlab-technologies-ag)
+- [Insight CyberSecurity](https://insight.om/)
+
+## Intresting Products
+### Companies
+#### Social Links
+- [CrimeWall](https://sociallinks.io/products/sl-crimewall)
+- [Fraud Prevention](https://sociallinks.io/products/sl-fraud-prevention) A FRAUD DETECTION‍ AND PREVENTION SOLUTION with powerful insights with digital footprints generated from 500+ open sources, including social media, corporate sources, and the Dark Web, to counter payment fraud, fake account creation, and more
+
+- [SL Professional](https://sociallinks.io/products/sl-professional) OSINT tool for conducting in-depth investigations across social media, blockchains, messengers, and the Dark Web in Maltego and i2 platforms.
+- [SL Private Platform](https://sociallinks.io/products/sl-private-platform) An enterprise-grade on-premise platform with customization options, private data storage, and our widest range of search methods
+#### Belksoft
+- [Belksoft X Forensic](https://belkasoft.com/x) flagship tool by Belkasoft for computer, mobile, drone, car, and cloud forensics. It can help you to acquire and analyze a wide range of mobile and computer devices, run various analytical tasks, perform case-wide searches, bookmark artifacts, and create reports.
+- [Belkasoft Incident Investigations](https://belkasoft.com/n) investigate hacking attempts of Windows computers.
+- [Belkasoft Remote Acquisition](https://belkasoft.com/r) remote evidance extraction of hard and removable drives, RAM, connected mobile devices, and even specific types of data.
+- [Belksoft Triage](https://belkasoft.com/t) Perform effective triage analysis of Windows devices right on the incident scene.
+- [Belksoft Corporate](https://belkasoft.com/corporate) Protect your business assets from malware and hacking attempts, perform cyber incident investigations and incident response, comply with legal requirements and regulations in eDiscovery, respond to insider threats, fight cyberharassment and bullying in the workplace.
+- [Belksoft Ram Capture](https://belkasoft.com/ram-capturer) Volatile Memory Acquisition Tool.
+#### National Security Services Group
+- [Passray](https://passray.nssgo.com/) Detect compromised and defective enterprise passwords to proactively prevent account takeover. 
+- [HashStrike](https://hashstrike.nssgo.com/) highly crafted software and hardware to audit and analyze passwords strength. 
+- [Dcapsula](https://dcapsula.nssgo.com/) Prevent email spoofing and impersonation attacks against your domain combined with a single innovative dashboard. 
